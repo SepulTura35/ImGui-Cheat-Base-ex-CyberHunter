@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XorHook", "ImGUIHook.vcxproj", "{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}.Debug|x64.ActiveCfg = Debug|x64
+		{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}.Debug|x64.Build.0 = Debug|x64
+		{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}.Debug|x86.Build.0 = Debug|Win32
+		{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}.Release|x64.ActiveCfg = Release|x64
+		{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}.Release|x64.Build.0 = Release|x64
+		{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}.Release|x86.ActiveCfg = Release|Win32
+		{ADC0170F-6DE7-41DF-A7F1-8686D8B2DFE3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE362FD-4A9D-4C22-9ADD-018CF6DFA753}
+	EndGlobalSection
+EndGlobal
